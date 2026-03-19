@@ -1,2 +1,2 @@
 # react-interest-calculator
-An interest calculator web page with React and JSX.
+A banking application web page with a React and JSX interest calculator.
